@@ -11,3 +11,72 @@ p.wp-caption-text{
   color: $charcoal;
   padding:rem-calc(10) 0;
 }
+
+
+.title {
+	font-family: 'Questrial', sans-serif;  font-weight:400;
+  font-style:normal;
+  font-size:28px;
+  color:#333333;
+  text-align:left;
+  padding-left: 100;
+  line-height:normal;
+}
+
+.sub-title {
+	font-family: 'Questrial', sans-serif;  font-weight:400;
+  font-style:normal;
+  font-size:22px;
+  color:#333333;
+  text-align:left;
+  padding-left: 100;
+  line-height:normal;
+}
+
+.parag {
+	font-family: 'Questrial', sans-serif;  font-weight:400;
+  font-style:normal;
+  font-size:18px;
+  color:#333333;
+  text-align:left;
+  padding-left: 100;
+  line-height:normal;
+
+  	a {
+
+  	color: #54565b;
+  	text-decoration: none;
+  	}
+
+
+  	a:visited {
+  		  	color: #54565b;
+  	}
+  	a:hover {
+
+  		color: #898b8e;
+  	}
+
+}
+  
+
+
+.code {
+font-family: 'Cutive Mono' ;
+  font-style:normal;
+  font-size:16px;
+  color:#333333;
+  text-align:left;
+  padding-left: 100;
+  line-height:normal;
+  }
+
+  img {
+
+  padding-bottom: 20px;
+
+  }
+
+ 
+
+

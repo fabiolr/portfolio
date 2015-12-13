@@ -1,6 +1,6 @@
 <?php
 /*
-Template Name: Front
+Template Name: Piece
 */
 get_header(); ?>
 
@@ -29,6 +29,7 @@ get_header(); ?>
 
 </header>
 
+eeeee
 
 
 	<div class="row">
